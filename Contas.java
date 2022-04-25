@@ -8,7 +8,7 @@ public class Contas
         this.numero = numero;
     }
 
-    public void setSaldo(int saldo)
+    public void setSaldo(Double saldo)
     {
         this.saldo = saldo;
     }
