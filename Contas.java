@@ -13,8 +13,6 @@ public class Contas
         this.saldo = saldo;
     }
 
-    //acessar com métodos píblicos
-
     public double getSaldo()
     {
         return this.saldo;
